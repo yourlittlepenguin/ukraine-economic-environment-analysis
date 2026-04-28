@@ -32,47 +32,47 @@ The practical part of the research includes analysis of real Ukrainian economic 
 
 ## Key Visualizations and Results
 
-This section presents the main results of the economic-environmental system simulation under different scenarios, including shock propagation and sensitivity analysis.
+This section presents the main results of the economic-environmental system simulation. The analysis focuses on production dynamics, emission behavior under different shock scenarios, and system sensitivity.
 
 ---
 
 ### Sector Output Dynamics (2019–2024)
 
-This chart shows the evolution of sectoral production output in the Ukrainian economy over time.
+This chart shows the evolution of sectoral production output in the Ukrainian economy over the analyzed period. It reflects structural changes in economic activity over time.
 
-![Sector Output Dynamics](charts/sector_output_dynamics_2019_2024.png)
+![Sector Output Dynamics (2019–2024)](charts/Sector Output Dynamics (2019–2024).png)
 
 ---
 
 ### Emissions under Shock Scenario (full-period shock)
 
-This scenario simulates environmental emissions when a systemic shock is applied across all years of the observation period.
+This scenario demonstrates how environmental emissions evolve when a systemic shock is applied throughout the entire observation period.
 
-![Full Shock Emissions](charts/emissions_full_shock.png)
+![Emissions under Shock Scenario (full-period shock)](charts/Emissions under Shock Scenario (full-period shock).png)
 
 ---
 
 ### Emissions under Single-Year Shock (2024 only)
 
-This scenario isolates the impact of a shock introduced only in 2024, allowing comparison with gradual shock propagation.
+This scenario isolates the impact of a shock applied only in 2024, allowing comparison between localized and persistent shock effects.
 
-![Single-Year Shock Emissions](charts/emissions_2024_shock.png)
+![Emissions under Single-Year Shock (2024 only)](charts/Emissions under Single-Year Shock (2024 only).png)
 
 ---
 
 ### Sensitivity Analysis by Economic Sector
 
-This analysis evaluates how individual economic sectors respond to changes in model parameters.
+This analysis evaluates how different economic sectors respond to changes in model parameters, highlighting the most influential sectors in the system.
 
-![Sector Sensitivity](charts/sensitivity_by_sector.png)
+![Sensitivity Analysis by Economic Sector](charts/Sensitivity Analysis by Economic Sector.png)
 
 ---
 
 ### Total System Sensitivity Across Scenarios
 
-This chart summarizes the overall sensitivity of the economic-environmental system under different scenarios.
+This chart summarizes the overall sensitivity of the economic-environmental system under different simulation scenarios.
 
-![Total Sensitivity](charts/total_system_sensitivity.png)
+![Total System Sensitivity Across Scenarios](charts/Total System Sensitivity Across Scenarios.png)
 
 ## Repository Structure
 
