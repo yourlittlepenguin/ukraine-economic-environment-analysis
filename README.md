@@ -40,7 +40,7 @@ This section presents the main results of the economic-environmental system simu
 
 This chart shows the evolution of sectoral production output in the Ukrainian economy over the analyzed period. It reflects structural changes in economic activity over time.
 
-![Sector Output Dynamics (2019–2024)](charts/Sector Output Dynamics (2019–2024).png)
+![Sector Output Dynamics (2019–2024)](charts/Sector Output Dynamics (2019–2024))
 
 ---
 
