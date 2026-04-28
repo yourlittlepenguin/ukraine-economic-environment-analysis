@@ -77,15 +77,11 @@ This chart summarizes the overall sensitivity of the economic-environmental syst
 ## Key Insights
 
 - Systemic shocks applied across the entire period lead to significantly stronger and more persistent changes in emissions compared to isolated shocks.
-
 - A single-year shock (2024) shows more localized impact, with partial system recovery in subsequent periods.
-
 - Sectoral output dynamics indicate structural changes in the Ukrainian economy over the 2019–2024 period.
-
 - Sensitivity analysis reveals that certain economic sectors have a disproportionately high influence on system stability.
-
 - The model demonstrates strong interdependence between economic activity and environmental indicators, confirming the validity of the dual balance approach.
-- 
+
 ## Repository Structure
 
 ```text
