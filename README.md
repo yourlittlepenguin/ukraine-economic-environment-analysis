@@ -48,7 +48,7 @@ This chart shows the evolution of sectoral production output in the Ukrainian ec
 
 This scenario demonstrates how environmental emissions evolve when a systemic shock is applied throughout the entire observation period.
 
-![Emissions under Shock Scenario (full-period shock)](charts/Emissions under Shock Scenario (full-period shock).png)
+![Emissions under Shock Scenario (full-period shock)](charts/emissions_full_shock.png)
 
 ---
 
@@ -56,7 +56,7 @@ This scenario demonstrates how environmental emissions evolve when a systemic sh
 
 This scenario isolates the impact of a shock applied only in 2024, allowing comparison between localized and persistent shock effects.
 
-![Emissions under Single-Year Shock (2024 only)](charts/Emissions under Single-Year Shock (2024 only).png)
+![Emissions under Single-Year Shock (2024 only)](charts/emissions_2024_only.png)
 
 ---
 
@@ -64,7 +64,7 @@ This scenario isolates the impact of a shock applied only in 2024, allowing comp
 
 This analysis evaluates how different economic sectors respond to changes in model parameters, highlighting the most influential sectors in the system.
 
-![Sensitivity Analysis by Economic Sector](charts/Sensitivity Analysis by Economic Sector.png)
+![Sensitivity Analysis by Economic Sector](charts/sensitivity_by_sector.png)
 
 ---
 
@@ -72,7 +72,7 @@ This analysis evaluates how different economic sectors respond to changes in mod
 
 This chart summarizes the overall sensitivity of the economic-environmental system under different simulation scenarios.
 
-![Total System Sensitivity Across Scenarios](charts/Total System Sensitivity Across Scenarios.png)
+![Total System Sensitivity Across Scenarios](charts/total_sensitivity.png)
 
 ## Repository Structure
 
